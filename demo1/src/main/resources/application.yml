@@ -1,0 +1,14 @@
+#
+mayikt:
+  name: mayikt
+  age: 12
+#server:
+#  port: 8080
+#
+#spring:
+#  mvc:
+#    view:
+#      #文件位置
+#      prefix: /templates/
+#      #文件后缀
+#      suffix: .ftl
